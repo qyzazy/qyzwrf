@@ -8,4 +8,4 @@ services:
     startCommand: python app.py  
     runtime: python
     env: python
-    region: Frankfurt
+    region: Oregon
