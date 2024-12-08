@@ -1,0 +1,469 @@
+﻿ID,name,label,category
+A9,2012年7月21日重庆暴雨集合预报试验,Title,Case name
+A10,2012年东北地区重大天气过程WRF模式预报效果检验,Title,Case name
+A11,2012年宁夏“7·29”大暴雨过程的数值模拟研究!,Title,Case name
+A17,2014年辽宁地区一次短时暴雨过程多尺度特征分析,Title,Case name
+A23,2016年华东沿海一次大范围平流雾成因的数值研究,Title,Case name
+A24,2017年夏季秦岭降水的数值模拟及其空间分布,Title,Case name
+A26,2018年春节期间京津冀地区污染过程分析,Title,Case name
+A28,21世纪初中国北方半干旱区土地利用变化对地表温度的影响,Title,Case name
+A33,CCSM4/WRF-CMAQ动力降尺度预估RCP8.5情景下京津冀地区空气质量的潜在变化,Title,Case name
+A68,WRF模式不同边界层参数化方案模拟兰州冬季边界层高度的研究,Title,Case name
+A1_e,"Performance of the WRF model in simulating intense precipitation events over the Hanjiang River Basin, China – A multi-physics ensemble approach",Title,Case name
+A3_e,"Comparison of three microphysics parameterization schemes in the WRF model for an extreme rainfall event in the coastal metropolitan City of Guangzhou, China",Title,Case name
+A5_e,"Source apportionment of particulate matter based on numerical simulation during a severe pollution period in Tangshan, North China",Title,Case name
+A7_e,Numerical simulation of the influence of major meteorological elements on the concentration of air pollutants during rainfall over Sichuan Basin of China,Title,Case name
+A11_e,Nitrate debuts as a dominant contributor to particulate pollution in Beijing: Roles of enhanced atmospheric oxidizing capacity and decreased sulfur dioxide emission,Title,Case name
+A16_e,"Cold fronts transport features of North China pollutant over Jiangsu Province, China",Title,Case name
+A21_e,Impact of emission reduction on aerosol-radiation interaction during heavy pollution periods over Beijing-Tianjin-Hebei region in China,Title,Case name
+A36_e,"Impact of different microphysics and cumulus parameterizations in WRF for heavy rainfall simulations in the central segment of the Tianshan Mountains, China",Title,Case name
+A45_e,"Increasing wintertime ozone levels and secondary aerosol formation in the Guanzhong basin, central China",Title,Case name
+A37_e,Sensitivity of rainfall and submonthly oscillations to moist physical processes schemes on Hainan island in autumn,Title,Case name
+A70,WRF模式不同陆面过程方案模拟兰州新区低空气象场特征,Title,Case name
+A72,WRF模式不同云参数化方案的暴雨预报能力检验及集成试验,Title,Case name
+A74,WRF模式参数化方案对江西山地风电场的风模拟研究,Title,Case name
+A79,WRF模式对济南地区夏季近地面气象场模拟效果评估,Title,Case name
+A83,WRF模式对乌鲁木齐机场一次冻雾天气的数值预报对比试验分析,Title,Case name
+A85,WRF模式对西南地区干旱事件的模拟研究,Title,Case name
+A90,WRF模式气象要素模拟精度的验证及订正——以南疆区域为例,Title,Case name
+A91,WRF模式同化系统对不同观测数据集的应用对比研究,Title,Case name
+A93,WRF模式物理过程参数化方案对酒泉地区暴雨模拟的影响,Title,Case name
+A96,WRF模式在天山地区模拟能力的敏感性评估,Title,Case name
+A97,WRF模式中QNSE方案的湍流长度尺度系数的调整试验研究,Title,Case name
+A100,WRF模式中不同参数化方案对华中地区一次强降水天气过程模拟的影响,Title,Case name
+A101,WRF模式中不同土地利用数据对新疆一次高温天气模拟的影响,Title,Case name
+A110,WRF土地利用/覆被数据优选及其在城市热岛模拟中的应用,Title,Case name
+A113,WRF中不同积云对流参数化方案对青岛降水预报影响的对比分析,Title,Case name
+A116,安徽一次暴雨过程的数值模拟与诊断分析,Title,Case name
+A135,不同背景场误差样本模拟方案对数值预报的影响——以“苏迪罗”台风为例,Title,Case name
+A136,不同边界层参数化方案对江苏地区一次平流雾过程的模拟影响,Title,Case name
+A138,不同边界层参数化方案对一次梅雨锋暴雨过程湍流交换特征模拟的影响,Title,Case name
+A139,不同边界层方案对台风灿都路径和强度模拟的影响,Title,Case name
+A142,不同初始场及其扰动对WRF模拟暴雨的影响,Title,Case name
+A143,不同初始场资料对台风“桑美”数值模拟的影响,Title,Case name
+A168,城市形态参数对边界层气象条件影响的模拟,Title,Case name
+A176,大连机场典型低空风切变的成因分析,Title,Case name
+A177,大连市大气污染天气特征及污染成因模拟分析,Title,Case name
+A191,滇中地区夏季城市热岛效应的数值模拟研究,Title,Case name
+A193,电动汽车普及对江苏冬季大气污染影响的数值模拟,Title,Case name
+A194,电力减排对华东空气质量影响的数值模拟,Title,Case name
+A206,多普勒雷达资料同化对暴雨预报的影响,Title,Case name
+A210,多普勒天气雷达反射率资料的三维变分同化试验,Title,Case name
+A238,海陆风环流中海盐气溶胶对大气影响的模拟,Title,Case name
+A239,海南岛不同土地覆盖资料对WRF模拟的影响,Title,Case name
+A243,杭州城市下垫面变化对污染物扩散影响的研究,Title,Case name
+A248,核事故下源项排放率对放射性物质大气扩散及沉降的影响,Title,Case name
+A296,基于WRF_Lake模拟的鄱阳湖对局地夏季降水的影响,Title,Case name
+A322,基于WRF模式的成都地区热岛效应的模拟研究,Title,Case name
+A333,基于WRF模式的青岛沿海地区近地面风的敏感性研究,Title,Case name
+A336,基于WRF模式的雅安暴雨数值模拟研究,Title,Case name
+A342,基于WRF模式对华北一次飑线过程中雷电活动的间接和直接模拟研究,Title,Case name
+A352,基于WRF张弛方法的辽宁地区动力降尺度研究,Title,Case name
+L1,Two layer nesting,Nesting adopted by the pattern,Regional settings
+L2,"107 °E,30 °N",The center coordinates,Regional settings
+L3,30km(d01),Horizontal resolution,Regional settings
+L4,10km(d02),Horizontal resolution,Regional settings
+L5,50 mb,Model top pressure,Regional settings
+L6,100×100(d01),Grid points,Regional settings
+L7,211×211(d02),Grid points,Regional settings
+L8,35 layers,Vertical layering,Regional settings
+L9,"Three layer unidirectional nesting
+",Nesting adopted by the pattern,Regional settings
+L10,"116°E,42°N",The center coordinates,Regional settings
+L11,27km(d01),Horizontal resolution,Regional settings
+L12,9km(d02),Horizontal resolution,Regional settings
+L13,3km(d03),Horizontal resolution,Regional settings
+L14,50 hPa,Model top pressure,Regional settings
+L15,37 layers,Vertical layering,Regional settings
+L16,"106.13°E, 38.29°N",The center coordinates,Regional settings
+L17,36km(d01),Horizontal resolution,Regional settings
+L18,12km(d02),Horizontal resolution,Regional settings
+L19,4km(d03),Horizontal resolution,Regional settings
+L20,180×180(d01),Grid points,Regional settings
+L21,195×165(d02),Grid points,Regional settings
+L22,276×273(d03),Grid points,Regional settings
+L23,19 layers,Vertical layering,Regional settings
+L24,"123°E,43°N",The center coordinates,Regional settings
+L25,9km(d01),Horizontal resolution,Regional settings
+L26,3km(d02),Horizontal resolution,Regional settings
+L27,300×416(d01),Grid points,Regional settings
+L28,610×643(d02),Grid points,Regional settings
+L29,"Triple bidirectional nesting
+",Nesting adopted by the pattern,Regional settings
+L30,"121°E,31°N",The center coordinates,Regional settings
+L31,54km(d01),Horizontal resolution,Regional settings
+L32,18km(d02),Horizontal resolution,Regional settings
+L33,6km(d03),Horizontal resolution,Regional settings
+L34,10 hPa,Model top pressure,Regional settings
+L35,100×70(d01),Grid points,Regional settings
+L36,178×148(d02),Grid points,Regional settings
+L37,346×286(d03),Grid points,Regional settings
+L38,40 layers,Vertical layering,Regional settings
+L39,"107.5°E,34.5°N",The center coordinates,Regional settings
+L40,18km(d01),Horizontal resolution,Regional settings
+L41,6km(d02),Horizontal resolution,Regional settings
+L42,"111.278E°,36.228N°",The center coordinates,Regional settings
+L43,41 layers,Vertical layering,Regional settings
+L44,"Single layer nested
+",Nesting adopted by the pattern,Regional settings
+L45,"112°E,42°N",The center coordinates,Regional settings
+L46,20km,Horizontal resolution,Regional settings
+L47,38 layers,Vertical layering,Regional settings
+L48,"101.9°E,36.4°N",The center coordinates,Regional settings
+L49,"103.82°E,36.05°N",The center coordinates,Regional settings
+L50,25km(d01),Horizontal resolution,Regional settings
+L51,5km(d02),Horizontal resolution,Regional settings
+L52,1km(d03),Horizontal resolution,Regional settings
+L53,77×53(d01),Grid points,Regional settings
+L54,131×91(d02),Grid points,Regional settings
+L55,85×29(d03),Grid points,Regional settings
+L56,Double nested,Nesting adopted by the pattern,Regional settings
+L57,"107°E,34°N",The center coordinates,Regional settings
+L58,30km(d01),Horizontal resolution,Regional settings
+L59,10km(d02),Horizontal resolution,Regional settings
+L60,79×92,Grid points,Regional settings
+L61,102×66,Grid points,Regional settings
+L62,30 layers,Vertical layering,Regional settings
+L63,"113.17°E,23.8°N",The center coordinates,Regional settings
+L64,4.5km(d01),Horizontal resolution,Regional settings
+L65,1.5km(d02),Horizontal resolution,Regional settings
+L66,0.5km(d03),Horizontal resolution,Regional settings
+L67,"117°E,40°N",The center coordinates,Regional settings
+L68,25km(d01),Horizontal resolution,Regional settings
+L69,140×100(d01),Grid points,Regional settings
+L70,100×100(d01),Grid points,Regional settings
+L71,"103.5°E, 30.5°N",The center coordinates,Regional settings
+L72,3km(d01),Horizontal resolution,Regional settings
+L73,471×426,Grid points,Regional settings
+L74,31 layers,Vertical layering,Regional settings
+L75,"116°E, 38°N",The center coordinates,Regional settings
+L76,6km(d01),Horizontal resolution,Regional settings
+L77,1200×1200(d01),Grid points,Regional settings
+L78,"119.5°E, 33.5°N",The center coordinates,Regional settings
+L79,49×62(d01),Grid points,Regional settings
+L80,85×1115(d01),Grid points,Regional settings
+L81,28 layers,Vertical layering,Regional settings
+L82,"115.5°E, 37.5°N",The center coordinates,Regional settings
+L83,223×202(d01),Grid points,Regional settings
+L84,100mb,Model top pressure,Regional settings
+L85,"85.56°E, 37.57°N",The center coordinates,Regional settings
+L86,200×200(d01),Grid points,Regional settings
+L87,202×202(d02),Grid points,Regional settings
+L88,226×226(d03),Grid points,Regional settings
+L89,"109°E, 34.25°N",The center coordinates,Regional settings
+L90,900×900(d01),Grid points,Regional settings
+L91,"109.8°E,19.25°N",The center coordinates,Regional settings
+L92,30km(d01),Horizontal resolution,Regional settings
+L93,10km(d02),Horizontal resolution,Regional settings
+L94,3km(d03),Horizontal resolution,Regional settings
+L95,120×100(d01),Grid points,Regional settings
+L96,106×88(d02),Grid points,Regional settings
+L97,115×115(d03),Grid points,Regional settings
+L98,"103.61°E,36.58°N",The center coordinates,Regional settings
+L99,"113.53°E, 29.58°N",The center coordinates,Regional settings
+L100,15km(d01),Horizontal resolution,Regional settings
+L101,119×179(D01),Grid points,Regional settings
+L102,"115.2°E,25.6°N",The center coordinates,Regional settings
+L103,52×55(d01),Grid points,Regional settings
+L104,82×91(d02),Grid points,Regional settings
+L105,91×121(d03),Grid points,Regional settings
+L106,"117.0°E,36.7°N",The center coordinates,Regional settings
+L107,101×101(d02),Grid points,Regional settings
+L108,201×201(d03),Grid points,Regional settings
+L109,16 layers,Vertical layering,Regional settings
+L110,"104°E,27°N",The center coordinates,Regional settings
+L111,35km(d01),Horizontal resolution,Regional settings
+L112,68×58(d01),Grid points,Regional settings
+L113,"87°E,44°N",The center coordinates,Regional settings
+L114,45 layers,Vertical layering,Regional settings
+L115,"83.4°E,38.8°N",The center coordinates,Regional settings
+L116,90km(d01),Horizontal resolution,Regional settings
+L117,30km(d02),Horizontal resolution,Regional settings
+L118,10km(d03),Horizontal resolution,Regional settings
+L119,67×40(d01),Grid points,Regional settings
+L120,115×67(d02),Grid points,Regional settings
+L121,172×106(d03),Grid points,Regional settings
+L122,"103.53°E,36.03°N",The center coordinates,Regional settings
+L123,201×171(d01),Grid points,Regional settings
+L124,283×193(d02),Grid points,Regional settings
+L125,181×148(d03),Grid points,Regional settings
+L126,34 layers,Vertical layering,Regional settings
+L127,"94.9°E,39.5°N",The center coordinates,Regional settings
+L128,92×56(d01),Grid points,Regional settings
+L129,85×67(d02),Grid points,Regional settings
+L130,124×88(d03),Grid points,Regional settings
+L131,"80°E,42°N",The center coordinates,Regional settings
+L132,40km(d01),Horizontal resolution,Regional settings
+L133,8km(d02),Horizontal resolution,Regional settings
+L134,100×50(d01),Grid points,Regional settings
+L135,341×136(d02),Grid points,Regional settings
+L136,32 layers,Vertical layering,Regional settings
+L137,"110°E,30°N",The center coordinates,Regional settings
+L138,45km(d01),Horizontal resolution,Regional settings
+L139,15km(d02),Horizontal resolution,Regional settings
+L140,5km(d03),Horizontal resolution,Regional settings
+L141,43 layers,Vertical layering,Regional settings
+L142,"100°E,32.5°N",The center coordinates,Regional settings
+L143,296×226,Grid points,Regional settings
+L144,"82.5°E,43.5°N",The center coordinates,Regional settings
+L145,211×181(d01),Grid points,Regional settings
+L146,289×208(d02),Grid points,Regional settings
+L147,"117.36°E,34.88°N",The center coordinates,Regional settings
+L148,40×37(d01),Grid points,Regional settings
+L149,44×41(d02),Grid points,Regional settings
+L150,"120°E,36°N",The center coordinates,Regional settings
+L151,301×301(d01),Grid points,Regional settings
+L152,514×382(d02),Grid points,Regional settings
+L153,"114°E,38.45°N",The center coordinates,Regional settings
+L154,97×100(d01),Grid points,Regional settings
+L155,91×82(d02),Grid points,Regional settings
+L156,"102.5°E,30°N ",The center coordinates,Regional settings
+L157,131×181(d01),Grid points,Regional settings
+L158,"114.133°E,30.617°N",The center coordinates,Regional settings
+L159,370×214(d01),Grid points,Regional settings
+L160,250×190(d02),Grid points,Regional settings
+L161,400×265(d02),Grid points,Regional settings
+L162,30 hPa,Model top pressure,Regional settings
+L163,"119.5°E, 32.5°N",The center coordinates,Regional settings
+L164,12.15km(d01),Horizontal resolution,Regional settings
+L165,4.05km(d02),Horizontal resolution,Regional settings
+L166,1.35km(d03),Horizontal resolution,Regional settings
+L167,250×250(d01),Grid points,Regional settings
+L168,385×385(d02),Grid points,Regional settings
+L169,595×595(d03),Grid points,Regional settings
+L170,60 layers,Vertical layering,Regional settings
+L171,"116°E,32.5°N",The center coordinates,Regional settings
+L172,13.5km(d01),Horizontal resolution,Regional settings
+L173,4.5km(d02),Horizontal resolution,Regional settings
+L174,1.5km(d03),Horizontal resolution,Regional settings
+L175,392×322(d01),Grid points,Regional settings
+L176,571×469(d02),Grid points,Regional settings
+L177,772×445(d03),Grid points,Regional settings
+L178,"110.2 °E,19.9 °N",The center coordinates,Regional settings
+L179,5km(d01),Horizontal resolution,Regional settings
+L180,401×401(d01),Grid points,Regional settings
+L181,"115°E,34°N",The center coordinates,Regional settings
+L182,110×100(d01),Grid points,Regional settings
+L183,166×106(d02),Grid points,Regional settings
+L184,"122.548°E, 26.362°N",The center coordinates,Regional settings
+L185,"114.2°E,22.6°N",The center coordinates,Regional settings
+L186,136×130(d01),Grid points,Regional settings
+L187,124×106(d02,Grid points,Regional settings
+L188,130×124(d03),Grid points,Regional settings
+L189,"121.54°E,38.95°N",The center coordinates,Regional settings
+L190,236×145(d01),Grid points,Regional settings
+L191,27 layers,Vertical layering,Regional settings
+L192,Four layer nesting,Nesting adopted by the pattern,Regional settings
+L193,"122°E,38°N",The center coordinates,Regional settings
+L194,81km(d01),Horizontal resolution,Regional settings
+L195,27km(d02),Horizontal resolution,Regional settings
+L196,9km(d03),Horizontal resolution,Regional settings
+L197,3km(d04),Horizontal resolution,Regional settings
+L198,88×75(d01),Grid points,Regional settings
+L199,85×71(d02),Grid points,Regional settings
+L200,82×82(d03),Grid points,Regional settings
+L201,82×64(d04),Grid points,Regional settings
+L202,24 layers,Vertical layering,Regional settings
+L203,"99.13°E,25.63°N",The center coordinates,Regional settings
+L204,150×130(d01),Grid points,Regional settings
+L205,201×201(d02),Grid points,Regional settings
+L206,202×151(d03),Grid points,Regional settings
+L207,"117°E,32°N",The center coordinates,Regional settings
+L208,100×115(d01),Grid points,Regional settings
+L209,85×94(d02),Grid points,Regional settings
+L210,"110°E,35°N",The center coordinates,Regional settings
+L211,119×101(d01),Horizontal resolution,Regional settings
+L212,"108°E,35°N",The center coordinates,Regional settings
+L213,118×118(d01),Grid points,Regional settings
+L214,157×199(d02),Grid points,Regional settings
+L215,"103°E,25.5°N",The center coordinates,Regional settings
+L216,61×61(d01),Grid points,Regional settings
+L217,"110°E,30°N",The center coordinates,Regional settings
+L218,240×240(d01),Grid points,Regional settings
+L219,148×160(d02),Grid points,Regional settings
+L220,199×175(d03),Grid points,Regional settings
+L221,"110.9°E,23.6°N",The center coordinates,Regional settings
+L222,361×301(d01),Grid points,Regional settings
+L223,36 layers,Vertical layering,Regional settings
+L224,"120.32°E,30.25°N",The center coordinates,Regional settings
+L225,127×127(d01),Grid points,Regional settings
+L226,109×109(d02),Grid points,Regional settings
+L227,151×151(d03),Grid points,Regional settings
+L228,141.0°E，37.5°N,The center coordinates,Regional settings
+L229,160×160(d01),Grid points,Regional settings
+L230,160×160(d02),Grid points,Regional settings
+L231,160×160(d03),Grid points,Regional settings
+L232,"116.5°E,28.5°N",The center coordinates,Regional settings
+L233,206×166(d01),Grid points,Regional settings
+L234,120×100(d02),Grid points,Regional settings
+L235,"104.06°E,30.67°N ",The center coordinates,Regional settings
+L236,1km(d02),Horizontal resolution,Regional settings
+L237,126×176(d01),Grid points,Regional settings
+L238,86×100(d02),Grid points,Regional settings
+L239,"120°E,36°N(d01)",The center coordinates,Regional settings
+L240,45×45(d01),Grid points,Regional settings
+L241,55×55(d02),Grid points,Regional settings
+L242,73×73(d03),Grid points,Regional settings
+L243,"100°E,30°N ",The center coordinates,Regional settings
+L244,157×127(d01),Grid points,Regional settings
+L245,126×93(d02),Grid points,Regional settings
+L246,"117°E,39°N ",The center coordinates,Regional settings
+L247,221×221(d01),Grid points,Regional settings
+L248,382×382(d02),Grid points,Regional settings
+L249,460×460(d03),Grid points,Regional settings
+L250,"116.0°E,42.0°N",The center coordinates,Regional settings
+L251,160×150(d01),Grid points,Regional settings
+L252,184×220(d02),Grid points,Regional settings
+L253,169×169(d03),Grid points,Regional settings
+L254,51 layers,Vertical layering,Regional settings
+K1,WSM6,Microphysical processes,Scheme configuration
+K2,Grell-Devenyi,Cumulus convection parameterization,Scheme configuration
+K3,RRTM,Long radiation,Scheme configuration
+K4,Dudhia,Short radiation,Scheme configuration
+K5,Noah,Land surface processes,Scheme configuration
+K6,YSU,Boundary layer,Scheme configuration
+K7,Kain-Fritsch,Cumulus convection parameterization,Scheme configuration
+K8,MM5,Short radiation,Scheme configuration
+K9,Purdue Lin,Microphysical processes,Scheme configuration
+K10,Lin,Microphysical processes,Scheme configuration
+K11,WSM3,Microphysical processes,Scheme configuration
+K12,CLM,Land surface processes,Scheme configuration
+K13,CAM ,Long radiation,Scheme configuration
+K14,CAM ,Short radiation,Scheme configuration
+K15,RRTMG,Short radiation,Scheme configuration
+K16,Grell3D,Cumulus convection parameterization,Scheme configuration
+K17,MYJ,Boundary layer,Scheme configuration
+K18,Monin-Obukhov,Near ground layer,Scheme configuration
+K19,WSM5,Microphysical processes,Scheme configuration
+K20,MYNN,Boundary layer,Scheme configuration
+K21,New Goddard,Long radiation,Scheme configuration
+K22,New Goddard,Short radiation,Scheme configuration
+K23,RUC,Land surface processes,Scheme configuration
+K24,SLAB,Land surface processes,Scheme configuration
+K25,Thompson graupel,Microphysical processes,Scheme configuration
+K26,God- dard,Microphysical processes,Scheme configuration
+K27,Morrison 2-Moment,Microphysical processes,Scheme configuration
+K28,Betts-Miller-Janjic,Cumulus convection parameterization,Scheme configuration
+K29,New SAS ( HWRF) ,Cumulus convection parameterization,Scheme configuration
+K30,Thermal diffusion,Land surface processes,Scheme configuration
+K31,GCE,Microphysical processes,Scheme configuration
+K32,QNSE,Boundary layer,Scheme configuration
+K33,BouLac,Boundary layer,Scheme configuration
+K34,MM5,Near ground layer,Scheme configuration
+K35,MYNN,Near ground layer,Scheme configuration
+M1,The FNL data for the NCEP/NCAR with a horizontal resolution of 1° × 1° per 6 h,The initial and boundary conditions,Initial data
+M2,"Ground and high-altitude observation data
+",The initial and boundary conditions,Initial data
+M3,The FNL data for the NCEP/NCAR with a horizontal resolution of 0.5° × 0.5° per 6 h,The initial and boundary conditions,Initial data
+M4,"AIR, TS-2A",The initial and boundary conditions,Initial data
+N1,2012年7月20日06时-7月22日06时,Simulation period,Time
+N2,2012年3月5日08时-6日08时、8月3日08时-4日08时、12月2日08时-3日08时,Simulation period,Time
+N3,2012年7月29日20:00-30日12:00,Simulation period,Time
+N4,2014年7月20日22:00-21日18:00,Simulation period,Time
+N5,2016年3月16—17日,Simulation period,Time
+N6,2017年6-8月,Simulation period,Time
+N7,2018年2月10日-24日,Simulation period,Time
+N8,2000年12月1日-2010年12月31日,Simulation period,Time
+N9,2005年1-10月,Simulation period,Time
+N10,2005年1月15日-2月2日,Simulation period,Time
+N11,from 2008 to 2011,Simulation period,Time
+N12,from 1200 UTC 06 to 0000 UTC 07 May 2017,Simulation period,Time
+N13,from October 2016 to March 2017,Simulation period,Time
+N14,from 1800 on 17 October to 1800 on 18 October 2018,Simulation period,Time
+N15,Oct-15,Simulation period,Time
+N16,December 22–23 2016,Simulation period,Time
+N17,Dec-15,Simulation period,Time
+N18,during 26–30 July 2010,Simulation period,Time
+N19,from 16 to 21 December 2016,Simulation period,Time
+N20,from 00:00 on September 25 to 18:00 on October 24 (UTC time) in 2010 and 2011,Simulation period,Time
+N21,2014年1月1日-30日,Simulation period,Time
+N22,2016年6月1日12时,Simulation period,Time
+N23,2016年7月、2017年1月,Simulation period,Time
+N24,2012年6月30日00时-7月21日00时,Simulation period,Time
+N25,2016年11月28—29日,Simulation period,Time
+N26,2009年5月1日-2010年4月30日,Simulation period,Time
+N27,2016,Simulation period,Time
+N28,2016年6月30日00时-2016年7月3日00时,Simulation period,Time
+N29,2012年6月4-5日,Simulation period,Time
+N30,2014年11月28日-2015年12月01日,Simulation period,Time
+N31,2009年7月24日00时,Simulation period,Time
+N32,2013年7月5-6日,Simulation period,Time
+N33,2017年7月9日00时-24时,Simulation period,Time
+N34,2013年1月1日0点至2月1日0点、4月1日0点至5月1日0点、7月1日0点至8月1日0点及10月1日0点至11月1日0点,Simulation period,Time
+N35,2014年5月、6月、7月,Simulation period,Time
+N36,2014年5月31日-6月1日,Simulation period,Time
+N37,2012年6月12日08时-8月31日20时,Simulation period,Time
+N38,2013年3月18-19日,Simulation period,Time
+N39,2007年7月3日18时-5日18时,Simulation period,Time
+N40,"2010年7月21日06时-22日18时,",Simulation period,Time
+N41,2013年7月12日08时-13日08时,Simulation period,Time
+N42,2006年8月9日18:00-2006年8月10日18:00,Simulation period,Time
+N43,2016年10月30日-11月04日,Simulation period,Time
+N44,2018年3月15日00时-18时,Simulation period,Time
+N45,2015年12月1-31日,Simulation period,Time
+N46,"2010年8月9日6时至8月11日24时
+",Simulation period,Time
+N47,2015年1月1日-30日,Simulation period,Time
+N48,2015年1月1日-31日,Simulation period,Time
+N49,"2007年8月8日10时-22时
+",Simulation period,Time
+N50,2010年10月7日12时-8日00时,Simulation period,Time
+N51,2013年9月7日8时-9月13日8时,Simulation period,Time
+N52,2016年9月2日10-16时,Simulation period,Time
+N53,2016年9月2日00:00—2016年9月7日08:00,Simulation period,Time
+N54,2011年3月15日00时-18日00时,Simulation period,Time
+N55,"2004年9月1日-2008年9月1日
+",Simulation period,Time
+N56,2008年7月5-6日,Simulation period,Time
+N57,"2016年4月1日00时-8日00时
+",Simulation period,Time
+N58,"2010年8月21日00:00-22日00:00
+",Simulation period,Time
+N59,"2009年6月15日18∶00—16日12∶00
+",Simulation period,Time
+N60,2015年7月和10月,Simulation period,Time
+C4,青岛,Simulation area,Range
+C9,兰州,Simulation area,Range
+C12,乌鲁木齐,Simulation area,Range
+C14,天山,Simulation area,Range
+C17,成都,Simulation area,Range
+C19,大连,Simulation area,Range
+C23,杭州,Simulation area,Range
+C35,济南,Simulation area,Range
+C57,西北太平洋,Simulation area,Range
+C60,陕西,Simulation area,Range
+C61,江苏,Simulation area,Range
+C63,福建,Simulation area,Range
+C64,新疆,Simulation area,Range
+C67,贵州,Simulation area,Range
+C68,重庆,Simulation area,Range
+C69,黑龙江,Simulation area,Range
+C70,宁夏,Simulation area,Range
+C71,湖北,Simulation area,Range
+C72,北京,Simulation area,Range
+C74,山东,Simulation area,Range
+C75,辽宁,Simulation area,Range
+C76,广东,Simulation area,Range
+C77,甘肃,Simulation area,Range
+C81,四川,Simulation area,Range
+C83,河北,Simulation area,Range
+C84,浙江,Simulation area,Range
+C85,江西,Simulation area,Range
+C86,云南,Simulation area,Range
+C87,安徽,Simulation area,Range
+C88,海南,Simulation area,Range
+C89,天津,Simulation area,Range
+C91,吉林,Simulation area,Range
+C94,河南,Simulation area,Range
+C98,Wuhan,Simulation area,Range
+C100,Guangzhou,Simulation area,Range
+C102,Tangshan,Simulation area,Range
+C104,Sichuan,Simulation area,Range
+C107,Beijing,Simulation area,Range
+C111,Jiangsu,Simulation area,Range
+C116,Tianjin,Simulation area,Range
+C117,Hebei,Simulation area,Range
+C124,Tianshan Mountains,Simulation area,Range
+C125,Hainan,Simulation area,Range
+C131,Guanzhong basin,Simulation area,Range
+C145,中国北方,Simulation area,Range
