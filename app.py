@@ -15,8 +15,8 @@ from fuzzywuzzy import fuzz
 app = Flask(__name__)
 
 # Load data
-nodes_df = pd.read_csv(os.path.join(basedir, 'node.csv'))
-edges_df = pd.read_csv(os.path.join(basedir, 'edge.csv'))
+nodes_df = pd.read_csv('node.csv') 
+edges_df = pd.read_csv('edge.csv') 
 nodes_df['ID'] = nodes_df['ID'].astype(str)
 
 # Create directed graph
