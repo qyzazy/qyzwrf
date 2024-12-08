@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: wrf_knowledge_recommendation  
+    name: wrf_knowledge_recommendation_app  
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
